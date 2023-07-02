@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageReport scope="Summary">
+  <Summary>
+    <Generatedon>01/07/2023 - 18:20:51</Generatedon>
+    <Parser>MultiReportParser (2x OpenCoverParser)</Parser>
+    <Assemblies>3</Assemblies>
+    <Classes>6</Classes>
+    <Files>6</Files>
+    <Coveredlines>58</Coveredlines>
+    <Uncoveredlines>95</Uncoveredlines>
+    <Coverablelines>153</Coverablelines>
+    <Totallines>342</Totallines>
+    <Linecoverage>37.9</Linecoverage>
+    <Coveredbranches>0</Coveredbranches>
+    <Totalbranches>0</Totalbranches>
+    <Coveredmethods>14</Coveredmethods>
+    <Totalmethods>27</Totalmethods>
+    <Methodcoverage>51.8</Methodcoverage>
+  </Summary>
+  <Coverage>
+    <Assembly name="PlayerAssembly" classes="4" coverage="63.2" coveredlines="43" coverablelines="68" totallines="139" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="11" totalmethods="15" methodcoverage="73.3">
+      <Class name="HealthBarDisplay" coverage="100" coveredlines="9" coverablelines="9" totallines="24" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="3" totalmethods="3" methodcoverage="100" />
+      <Class name="HealthChangeLogger" coverage="72.7" coveredlines="8" coverablelines="11" totallines="23" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="2" totalmethods="3" methodcoverage="66.6" />
+      <Class name="Player" coverage="46.8" coveredlines="15" coverablelines="32" totallines="60" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="3" totalmethods="5" methodcoverage="60" />
+      <Class name="PlayerManager" coverage="68.7" coveredlines="11" coverablelines="16" totallines="32" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="3" totalmethods="4" methodcoverage="75" />
+    </Assembly>
+    <Assembly name="Tests" classes="1" coverage="100" coveredlines="15" coverablelines="15" totallines="46" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="3" totalmethods="3" methodcoverage="100">
+      <Class name="PlayerPlayModeTest" coverage="100" coveredlines="15" coverablelines="15" totallines="46" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="3" totalmethods="3" methodcoverage="100" />
+    </Assembly>
+    <Assembly name="TestsEditMode" classes="1" coverage="0" coveredlines="0" coverablelines="70" totallines="157" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="9" methodcoverage="0">
+      <Class name="PlayerUnitTest" coverage="0" coveredlines="0" coverablelines="70" totallines="157" branchcoverage="" coveredbranches="0" totalbranches="0" coveredmethods="0" totalmethods="9" methodcoverage="0" />
+    </Assembly>
+  </Coverage>
+</CoverageReport>

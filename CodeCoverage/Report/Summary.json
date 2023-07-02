@@ -1,0 +1,31 @@
+{
+  "summary": {
+    "generatedon": "2023-07-01T17:20:51Z",
+    "parser": "MultiReportParser (2x OpenCoverParser)",
+    "assemblies": 3,
+    "classes": 6,
+    "files": 6,
+    "coveredlines": 58,
+    "uncoveredlines": 95,
+    "coverablelines": 153,
+    "totallines": 342,
+    "linecoverage": 37.9,
+    "coveredbranches": 0,
+    "totalbranches": 0,
+    "coveredmethods": 14,
+    "totalmethods": 27,
+    "methodcoverage": 51.8
+ },
+  "coverage": {
+    "assemblies": [
+      { "name": "PlayerAssembly", "classes": 4, "coverage": 63.2, "coveredlines": 43, "coverablelines": 68, "totallines": 139, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 73.3, "coveredmethods": 11, "totalmethods": 15, "classesinassembly": [
+        { "name": "HealthBarDisplay", "coverage": 100, "coveredlines": 9, "coverablelines": 9, "totallines": 24, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 3, "totalmethods": 3 },
+        { "name": "HealthChangeLogger", "coverage": 72.7, "coveredlines": 8, "coverablelines": 11, "totallines": 23, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 66.6, "coveredmethods": 2, "totalmethods": 3 },
+        { "name": "Player", "coverage": 46.8, "coveredlines": 15, "coverablelines": 32, "totallines": 60, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 60, "coveredmethods": 3, "totalmethods": 5 },
+        { "name": "PlayerManager", "coverage": 68.7, "coveredlines": 11, "coverablelines": 16, "totallines": 32, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 75, "coveredmethods": 3, "totalmethods": 4 } ] },
+      { "name": "Tests", "classes": 1, "coverage": 100, "coveredlines": 15, "coverablelines": 15, "totallines": 46, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 3, "totalmethods": 3, "classesinassembly": [
+        { "name": "PlayerPlayModeTest", "coverage": 100, "coveredlines": 15, "coverablelines": 15, "totallines": 46, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 3, "totalmethods": 3 } ] },
+      { "name": "TestsEditMode", "classes": 1, "coverage": 0, "coveredlines": 0, "coverablelines": 70, "totallines": 157, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 0, "coveredmethods": 0, "totalmethods": 9, "classesinassembly": [
+        { "name": "PlayerUnitTest", "coverage": 0, "coveredlines": 0, "coverablelines": 70, "totallines": 157, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 0, "coveredmethods": 0, "totalmethods": 9 } ] } ]
+  }
+}
